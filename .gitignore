@@ -1,0 +1,11 @@
+# Specific files
+**/lnk_msp430f149.cmd
+**/.ccsproject
+**/.cproject
+**/.project
+
+# Directories
+**/.launches/
+**/.settings/
+**/Debug/
+**/targetConfigs/
